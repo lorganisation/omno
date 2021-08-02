@@ -14,3 +14,4 @@ title: A New Page
 type: page
 uid: 0b536428-bf20-43a1-9942-b795c18baf60
 ---
+{{< resource asdfasdf >}}
